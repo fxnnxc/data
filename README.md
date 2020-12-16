@@ -21,5 +21,5 @@ conda activate plot
 Todo 
 
 - [ ] set seaborn style using config
-- [ ] change title size using config
+- [X] change title size using config
 - [ ] scatter plot using seaborn 
