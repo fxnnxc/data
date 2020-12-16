@@ -1,14 +1,14 @@
 {
-    "line":{
-        "x":["data/annealing.npy"]
-    },
+    "figsize":[7,5],
 
-    "figsize":[10,10],
-
-    "plot_info":{
+    "plt_info":{
         "title":"Annealing",
-        "grid":"on"
+        "title_font_size":15,
+        "grid":"on",
+        "fontsize":15
         },
-        
-    "save_name":"img/Annealing.jpg"
+
+    "sns_info":{
+        "style":"whitegrid"
+        }
 }
