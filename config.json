@@ -3,9 +3,14 @@
 
     "plt_info":{
         "title":"Annealing",
-        "title_font_size":15,
-        "grid":"on",
-        "fontsize":15
+        "xlabel":"index",
+        "ylabel":"beta",
+
+        "title_fontsize":35,
+        "xlabel_fontsize":30,
+        "ylabel_fontsize":30,
+
+        "grid":"on"
         },
 
     "sns_info":{

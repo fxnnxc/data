@@ -7,10 +7,10 @@ from plot_utils.plt import *
 from plot_utils.sns import *
 
 def lineplot(cfg):
-    plt.figure(figsize=cfg['figsize'])
+    fig = plt.figure(figsize=cfg['figsize'])
     sns.lineplot(x=cfg['x'], y=cfg['y'], data=cfg['data'])
 
-    custom_plt_plot(**cfg['plt_info'])
+    custom_plt_plot(fig, **cfg['plt_info'])
     custom_sns_plot(**cfg['sns_info'])
 
     plt.show()
