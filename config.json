@@ -1,0 +1,14 @@
+{
+    "line":{
+        "x":["data/annealing.npy"]
+    },
+
+    "figsize":[10,10],
+
+    "plot_info":{
+        "title":"Annealing",
+        "grid":"on"
+        },
+        
+    "save_name":"img/Annealing.jpg"
+}
