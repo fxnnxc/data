@@ -1,5 +1,6 @@
 
 [![Badge](https://img.shields.io/static/v1?label=&message=Working&color=<COLOR>)](#Badge)
+[![Badge](https://img.shields.io/static/v1?label=Python&message=3.6.8&color=blue)](#Badge)
 
 This Repository is to 
 
