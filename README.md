@@ -1,7 +1,10 @@
 
 [![Badge](https://img.shields.io/static/v1?label=&message=Working&color=<COLOR>)](#Badge)
 
-# plot
+This Repository is to 
+
+1. Make Data
+2. Plot Data
 
 ```
 conda env create -f env.yml
@@ -9,10 +12,15 @@ conda activate plot
 ```
 
 
-# Make Data
+## Make Data
 
-It is to make data 
+make data 
+* more information in [MakeData README](https://github.com/fxnnxc/data/tree/main/make_data)
 
+## plot
+
+plot data
+* more information in [Plot README](https://github.com/fxnnxc/data/tree/main/plot)
 
 
 Todo 
