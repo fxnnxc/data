@@ -13,3 +13,7 @@
 ## Type1
 
 * beta_annealing
+
+|Type|equation|implemented|
+|:-:|:-:|:-:|
+|beta_annealing|| ✔️|
