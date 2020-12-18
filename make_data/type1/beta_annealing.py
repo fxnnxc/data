@@ -12,7 +12,7 @@ class Annealing():
         beta = [t/R if t<=R else 1 for t in tau]
         beta = np.array(beta)
         df = pd.DataFrame(beta, columns=["beta"])
-        df.to_csv("data/annealing.csv", index=False)   
+        df.to_csv("../data/annealing.csv", index=False)   
         print("*--Check data folder--*")
 
 
