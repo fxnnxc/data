@@ -3,8 +3,8 @@
 
 This Repository is to 
 
-1. Make Data
-2. Plot Data
+1. **Make Data**
+2. **Plot Data**
 
 ```
 conda env create -f env.yml
