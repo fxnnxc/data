@@ -38,14 +38,8 @@ ipynb 파일 형식으로 데이터 시각화에 대한 소스코드를 올려�
 * #### 업종별 년도에 따른 카드 이용 금액 
 <img src='images/card6.png' width=400px>
 
----
-## 3. Matplotlib color map
-
-<img src="images/colormap.png" width=700px>
 
 ---
-
-추가 예정...💬
 
 
 # 🔤 NLP_visualization
@@ -55,16 +49,6 @@ ipynb 파일 형식으로 데이터 시각화에 대한 소스코드를 올려�
 자연어 시각화 사례들을 모으고 시각화를 바로 적용할 수 있게 관련 코드를 ipynb 파일 형식으로 모아두었습니다. 
 
 
-
-## Useful sites
-<kbd>
-<img src="images/happy.webp" width=300px>
-</kbd>
-
-* wiki data visualization : https://en.wikipedia.org/wiki/Data_visualization
-* matplotlib color map : https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html
-* matplotlib color  : https://matplotlib.org/3.1.0/gallery/color/named_colors.html
----
 
 
 ## 1. Domain_specific_ranking_using_word2vec_cosine_distance
@@ -181,9 +165,23 @@ ipynb 파일 형식으로 데이터 시각화에 대한 소스코드를 올려�
 
 <img src="images/nlp_count.gif" width=400px>
 
-추가 예정...💬
-
-
 ---
+
+
+## Useful sites
+<kbd>
+<img src="images/happy.webp" width=300px>
+</kbd>
+
+* wiki data visualization : https://en.wikipedia.org/wiki/Data_visualization
+* matplotlib color map : https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html
+* matplotlib color  : https://matplotlib.org/3.1.0/gallery/color/named_colors.html
+---
+
+
+## Matplotlib color map
+
+<img src="images/colormap.png" width=700px>
+
 추가 예정...💬
 
