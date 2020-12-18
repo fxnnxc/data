@@ -9,20 +9,13 @@ conda activate plot
 ```
 
 
+# Make Data
 
-
-# Data Generation
-1. Beta Annealing
-
-
-# Plot
-1. lineplot using seaborn
-
+It is to make data 
 
 
 
 Todo 
 
 - [ ] set seaborn style using config
-- [X] change title size using config
 - [ ] scatter plot using seaborn 
